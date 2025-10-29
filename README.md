@@ -25,7 +25,6 @@ formacao-github-certification-dio/
 │
 ├── modulo-01-introducao-git-github/
 │   ├── desafio-01-primeiro-repositorio/
-│   │   ├── index.html
 │   │   └── README.md
 │   └── README.md
 │
